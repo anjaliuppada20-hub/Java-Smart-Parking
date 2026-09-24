@@ -1,2 +1,0 @@
-# Java-Smart-Parking
-java
